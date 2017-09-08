@@ -1,0 +1,42 @@
+{
+  "coord": {
+    "lon": 76.95,
+    "lat": 43.25
+  },
+  "weather": [
+    {
+      "id": 803,
+      "main": "Clouds",
+      "description": "пасмурно",
+      "icon": "04d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 27,
+    "pressure": 1007,
+    "humidity": 47,
+    "temp_min": 27,
+    "temp_max": 27
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 2,
+    "deg": 130
+  },
+  "clouds": {
+    "all": 75
+  },
+  "dt": 1497961800,
+  "sys": {
+    "type": 1,
+    "id": 7191,
+    "message": 0.0031,
+    "country": "KZ",
+    "sunrise": 1497913925,
+    "sunset": 1497969342
+  },
+  "id": 1526384,
+  "name": "Almaty",
+  "cod": 200
+}

@@ -1,0 +1,1277 @@
+{
+  "cod": "200",
+  "message": 0.0024,
+  "cnt": 37,
+  "list": [
+    {
+      "dt": 1497949200,
+      "main": {
+        "temp": 23.2,
+        "temp_min": 18,
+        "temp_max": 23.2,
+        "pressure": 838.76,
+        "sea_level": 1018.48,
+        "grnd_level": 838.76,
+        "humidity": 76,
+        "temp_kf": 5.2
+      },
+      "weather": [
+        {
+          "id": 501,
+          "main": "Rain",
+          "description": "дождь",
+          "icon": "10d"
+        }
+      ],
+      "clouds": {
+        "all": 36
+      },
+      "wind": {
+        "speed": 1.32,
+        "deg": 210.002
+      },
+      "rain": {
+        "3h": 3.485
+      },
+      "sys": {
+        "pod": "d"
+      },
+      "dt_txt": "2017-06-20 09:00:00"
+    },
+    {
+      "dt": 1497960000,
+      "main": {
+        "temp": 20.63,
+        "temp_min": 16.73,
+        "temp_max": 20.63,
+        "pressure": 839.38,
+        "sea_level": 1019.21,
+        "grnd_level": 839.38,
+        "humidity": 81,
+        "temp_kf": 3.9
+      },
+      "weather": [
+        {
+          "id": 500,
+          "main": "Rain",
+          "description": "легкий дождь",
+          "icon": "10d"
+        }
+      ],
+      "clouds": {
+        "all": 76
+      },
+      "wind": {
+        "speed": 1.16,
+        "deg": 223.5
+      },
+      "rain": {
+        "3h": 2.565
+      },
+      "sys": {
+        "pod": "d"
+      },
+      "dt_txt": "2017-06-20 12:00:00"
+    },
+    {
+      "dt": 1497970800,
+      "main": {
+        "temp": 18.12,
+        "temp_min": 15.52,
+        "temp_max": 18.12,
+        "pressure": 839.36,
+        "sea_level": 1019.98,
+        "grnd_level": 839.36,
+        "humidity": 84,
+        "temp_kf": 2.6
+      },
+      "weather": [
+        {
+          "id": 500,
+          "main": "Rain",
+          "description": "легкий дождь",
+          "icon": "10n"
+        }
+      ],
+      "clouds": {
+        "all": 92
+      },
+      "wind": {
+        "speed": 0.96,
+        "deg": 182.502
+      },
+      "rain": {
+        "3h": 2.075
+      },
+      "sys": {
+        "pod": "n"
+      },
+      "dt_txt": "2017-06-20 15:00:00"
+    },
+    {
+      "dt": 1497981600,
+      "main": {
+        "temp": 15.78,
+        "temp_min": 14.49,
+        "temp_max": 15.78,
+        "pressure": 839.34,
+        "sea_level": 1020.39,
+        "grnd_level": 839.34,
+        "humidity": 84,
+        "temp_kf": 1.3
+      },
+      "weather": [
+        {
+          "id": 501,
+          "main": "Rain",
+          "description": "дождь",
+          "icon": "10n"
+        }
+      ],
+      "clouds": {
+        "all": 88
+      },
+      "wind": {
+        "speed": 1.42,
+        "deg": 172.003
+      },
+      "rain": {
+        "3h": 3.09
+      },
+      "sys": {
+        "pod": "n"
+      },
+      "dt_txt": "2017-06-20 18:00:00"
+    },
+    {
+      "dt": 1497992400,
+      "main": {
+        "temp": 13.65,
+        "temp_min": 13.65,
+        "temp_max": 13.65,
+        "pressure": 838.9,
+        "sea_level": 1020.11,
+        "grnd_level": 838.9,
+        "humidity": 84,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 501,
+          "main": "Rain",
+          "description": "дождь",
+          "icon": "10n"
+        }
+      ],
+      "clouds": {
+        "all": 92
+      },
+      "wind": {
+        "speed": 1.42,
+        "deg": 154.501
+      },
+      "rain": {
+        "3h": 3.4
+      },
+      "sys": {
+        "pod": "n"
+      },
+      "dt_txt": "2017-06-20 21:00:00"
+    },
+    {
+      "dt": 1498003200,
+      "main": {
+        "temp": 13.48,
+        "temp_min": 13.48,
+        "temp_max": 13.48,
+        "pressure": 838.94,
+        "sea_level": 1020.58,
+        "grnd_level": 838.94,
+        "humidity": 82,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 500,
+          "main": "Rain",
+          "description": "легкий дождь",
+          "icon": "10d"
+        }
+      ],
+      "clouds": {
+        "all": 88
+      },
+      "wind": {
+        "speed": 1.76,
+        "deg": 160.001
+      },
+      "rain": {
+        "3h": 0.89
+      },
+      "sys": {
+        "pod": "d"
+      },
+      "dt_txt": "2017-06-21 00:00:00"
+    },
+    {
+      "dt": 1498014000,
+      "main": {
+        "temp": 18.61,
+        "temp_min": 18.61,
+        "temp_max": 18.61,
+        "pressure": 839.51,
+        "sea_level": 1020.46,
+        "grnd_level": 839.51,
+        "humidity": 72,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 500,
+          "main": "Rain",
+          "description": "легкий дождь",
+          "icon": "10d"
+        }
+      ],
+      "clouds": {
+        "all": 64
+      },
+      "wind": {
+        "speed": 1.12,
+        "deg": 194.501
+      },
+      "rain": {
+        "3h": 0.059999999999999
+      },
+      "sys": {
+        "pod": "d"
+      },
+      "dt_txt": "2017-06-21 03:00:00"
+    },
+    {
+      "dt": 1498024800,
+      "main": {
+        "temp": 21.13,
+        "temp_min": 21.13,
+        "temp_max": 21.13,
+        "pressure": 839.23,
+        "sea_level": 1019.22,
+        "grnd_level": 839.23,
+        "humidity": 61,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 802,
+          "main": "Clouds",
+          "description": "слегка облачно",
+          "icon": "03d"
+        }
+      ],
+      "clouds": {
+        "all": 36
+      },
+      "wind": {
+        "speed": 1.56,
+        "deg": 1.00342
+      },
+      "rain": {},
+      "sys": {
+        "pod": "d"
+      },
+      "dt_txt": "2017-06-21 06:00:00"
+    },
+    {
+      "dt": 1498035600,
+      "main": {
+        "temp": 21.84,
+        "temp_min": 21.84,
+        "temp_max": 21.84,
+        "pressure": 838.76,
+        "sea_level": 1018.1,
+        "grnd_level": 838.76,
+        "humidity": 58,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 500,
+          "main": "Rain",
+          "description": "легкий дождь",
+          "icon": "10d"
+        }
+      ],
+      "clouds": {
+        "all": 36
+      },
+      "wind": {
+        "speed": 1.5,
+        "deg": 20.5014
+      },
+      "rain": {
+        "3h": 0.65
+      },
+      "sys": {
+        "pod": "d"
+      },
+      "dt_txt": "2017-06-21 09:00:00"
+    },
+    {
+      "dt": 1498046400,
+      "main": {
+        "temp": 21.41,
+        "temp_min": 21.41,
+        "temp_max": 21.41,
+        "pressure": 838.78,
+        "sea_level": 1018.21,
+        "grnd_level": 838.78,
+        "humidity": 52,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 803,
+          "main": "Clouds",
+          "description": "пасмурно",
+          "icon": "04d"
+        }
+      ],
+      "clouds": {
+        "all": 64
+      },
+      "wind": {
+        "speed": 1.41,
+        "deg": 32.5018
+      },
+      "rain": {},
+      "sys": {
+        "pod": "d"
+      },
+      "dt_txt": "2017-06-21 12:00:00"
+    },
+    {
+      "dt": 1498057200,
+      "main": {
+        "temp": 17.96,
+        "temp_min": 17.96,
+        "temp_max": 17.96,
+        "pressure": 839.44,
+        "sea_level": 1019.42,
+        "grnd_level": 839.44,
+        "humidity": 58,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 803,
+          "main": "Clouds",
+          "description": "пасмурно",
+          "icon": "04n"
+        }
+      ],
+      "clouds": {
+        "all": 80
+      },
+      "wind": {
+        "speed": 1.07,
+        "deg": 30.0001
+      },
+      "rain": {},
+      "sys": {
+        "pod": "n"
+      },
+      "dt_txt": "2017-06-21 15:00:00"
+    },
+    {
+      "dt": 1498068000,
+      "main": {
+        "temp": 14.19,
+        "temp_min": 14.19,
+        "temp_max": 14.19,
+        "pressure": 839.53,
+        "sea_level": 1020.25,
+        "grnd_level": 839.53,
+        "humidity": 68,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 802,
+          "main": "Clouds",
+          "description": "слегка облачно",
+          "icon": "03n"
+        }
+      ],
+      "clouds": {
+        "all": 48
+      },
+      "wind": {
+        "speed": 0.87,
+        "deg": 141.001
+      },
+      "rain": {},
+      "sys": {
+        "pod": "n"
+      },
+      "dt_txt": "2017-06-21 18:00:00"
+    },
+    {
+      "dt": 1498078800,
+      "main": {
+        "temp": 13.81,
+        "temp_min": 13.81,
+        "temp_max": 13.81,
+        "pressure": 839.59,
+        "sea_level": 1020.66,
+        "grnd_level": 839.59,
+        "humidity": 67,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 803,
+          "main": "Clouds",
+          "description": "пасмурно",
+          "icon": "04n"
+        }
+      ],
+      "clouds": {
+        "all": 64
+      },
+      "wind": {
+        "speed": 1.78,
+        "deg": 168.501
+      },
+      "rain": {},
+      "sys": {
+        "pod": "n"
+      },
+      "dt_txt": "2017-06-21 21:00:00"
+    },
+    {
+      "dt": 1498089600,
+      "main": {
+        "temp": 14.17,
+        "temp_min": 14.17,
+        "temp_max": 14.17,
+        "pressure": 839.81,
+        "sea_level": 1021.08,
+        "grnd_level": 839.81,
+        "humidity": 68,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "пасмурно",
+          "icon": "04d"
+        }
+      ],
+      "clouds": {
+        "all": 88
+      },
+      "wind": {
+        "speed": 1.37,
+        "deg": 164.503
+      },
+      "rain": {},
+      "sys": {
+        "pod": "d"
+      },
+      "dt_txt": "2017-06-22 00:00:00"
+    },
+    {
+      "dt": 1498100400,
+      "main": {
+        "temp": 19.59,
+        "temp_min": 19.59,
+        "temp_max": 19.59,
+        "pressure": 840.09,
+        "sea_level": 1020.78,
+        "grnd_level": 840.09,
+        "humidity": 54,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 803,
+          "main": "Clouds",
+          "description": "пасмурно",
+          "icon": "04d"
+        }
+      ],
+      "clouds": {
+        "all": 80
+      },
+      "wind": {
+        "speed": 1.06,
+        "deg": 172.006
+      },
+      "rain": {},
+      "sys": {
+        "pod": "d"
+      },
+      "dt_txt": "2017-06-22 03:00:00"
+    },
+    {
+      "dt": 1498111200,
+      "main": {
+        "temp": 22.09,
+        "temp_min": 22.09,
+        "temp_max": 22.09,
+        "pressure": 839.81,
+        "sea_level": 1019.72,
+        "grnd_level": 839.81,
+        "humidity": 47,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 803,
+          "main": "Clouds",
+          "description": "пасмурно",
+          "icon": "04d"
+        }
+      ],
+      "clouds": {
+        "all": 76
+      },
+      "wind": {
+        "speed": 1.02,
+        "deg": 31.0043
+      },
+      "rain": {},
+      "sys": {
+        "pod": "d"
+      },
+      "dt_txt": "2017-06-22 06:00:00"
+    },
+    {
+      "dt": 1498122000,
+      "main": {
+        "temp": 23.22,
+        "temp_min": 23.22,
+        "temp_max": 23.22,
+        "pressure": 839.02,
+        "sea_level": 1018.48,
+        "grnd_level": 839.02,
+        "humidity": 46,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 500,
+          "main": "Rain",
+          "description": "легкий дождь",
+          "icon": "10d"
+        }
+      ],
+      "clouds": {
+        "all": 36
+      },
+      "wind": {
+        "speed": 1.71,
+        "deg": 25.5002
+      },
+      "rain": {
+        "3h": 0.38
+      },
+      "sys": {
+        "pod": "d"
+      },
+      "dt_txt": "2017-06-22 09:00:00"
+    },
+    {
+      "dt": 1498132800,
+      "main": {
+        "temp": 22.58,
+        "temp_min": 22.58,
+        "temp_max": 22.58,
+        "pressure": 839.12,
+        "sea_level": 1018.4,
+        "grnd_level": 839.12,
+        "humidity": 45,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 500,
+          "main": "Rain",
+          "description": "легкий дождь",
+          "icon": "10d"
+        }
+      ],
+      "clouds": {
+        "all": 32
+      },
+      "wind": {
+        "speed": 0.56,
+        "deg": 83.0024
+      },
+      "rain": {
+        "3h": 1.07
+      },
+      "sys": {
+        "pod": "d"
+      },
+      "dt_txt": "2017-06-22 12:00:00"
+    },
+    {
+      "dt": 1498143600,
+      "main": {
+        "temp": 18.62,
+        "temp_min": 18.62,
+        "temp_max": 18.62,
+        "pressure": 839.43,
+        "sea_level": 1019.47,
+        "grnd_level": 839.43,
+        "humidity": 52,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 802,
+          "main": "Clouds",
+          "description": "слегка облачно",
+          "icon": "03n"
+        }
+      ],
+      "clouds": {
+        "all": 36
+      },
+      "wind": {
+        "speed": 0.51,
+        "deg": 347.502
+      },
+      "rain": {},
+      "sys": {
+        "pod": "n"
+      },
+      "dt_txt": "2017-06-22 15:00:00"
+    },
+    {
+      "dt": 1498154400,
+      "main": {
+        "temp": 15.06,
+        "temp_min": 15.06,
+        "temp_max": 15.06,
+        "pressure": 839.84,
+        "sea_level": 1020.55,
+        "grnd_level": 839.84,
+        "humidity": 60,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 802,
+          "main": "Clouds",
+          "description": "слегка облачно",
+          "icon": "03n"
+        }
+      ],
+      "clouds": {
+        "all": 48
+      },
+      "wind": {
+        "speed": 1.32,
+        "deg": 179.005
+      },
+      "rain": {},
+      "sys": {
+        "pod": "n"
+      },
+      "dt_txt": "2017-06-22 18:00:00"
+    },
+    {
+      "dt": 1498165200,
+      "main": {
+        "temp": 13.72,
+        "temp_min": 13.72,
+        "temp_max": 13.72,
+        "pressure": 839.16,
+        "sea_level": 1020.22,
+        "grnd_level": 839.16,
+        "humidity": 57,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "облачно",
+          "icon": "02n"
+        }
+      ],
+      "clouds": {
+        "all": 12
+      },
+      "wind": {
+        "speed": 1.97,
+        "deg": 169.003
+      },
+      "rain": {},
+      "sys": {
+        "pod": "n"
+      },
+      "dt_txt": "2017-06-22 21:00:00"
+    },
+    {
+      "dt": 1498176000,
+      "main": {
+        "temp": 14.23,
+        "temp_min": 14.23,
+        "temp_max": 14.23,
+        "pressure": 839.26,
+        "sea_level": 1020.39,
+        "grnd_level": 839.26,
+        "humidity": 55,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 500,
+          "main": "Rain",
+          "description": "легкий дождь",
+          "icon": "10d"
+        }
+      ],
+      "clouds": {
+        "all": 76
+      },
+      "wind": {
+        "speed": 1.36,
+        "deg": 161.507
+      },
+      "rain": {
+        "3h": 0.13
+      },
+      "sys": {
+        "pod": "d"
+      },
+      "dt_txt": "2017-06-23 00:00:00"
+    },
+    {
+      "dt": 1498186800,
+      "main": {
+        "temp": 19.99,
+        "temp_min": 19.99,
+        "temp_max": 19.99,
+        "pressure": 839.7,
+        "sea_level": 1020.03,
+        "grnd_level": 839.7,
+        "humidity": 57,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 500,
+          "main": "Rain",
+          "description": "легкий дождь",
+          "icon": "10d"
+        }
+      ],
+      "clouds": {
+        "all": 48
+      },
+      "wind": {
+        "speed": 1.21,
+        "deg": 186.003
+      },
+      "rain": {
+        "3h": 0.83
+      },
+      "sys": {
+        "pod": "d"
+      },
+      "dt_txt": "2017-06-23 03:00:00"
+    },
+    {
+      "dt": 1498197600,
+      "main": {
+        "temp": 25.18,
+        "temp_min": 25.18,
+        "temp_max": 25.18,
+        "pressure": 839.12,
+        "sea_level": 1018.13,
+        "grnd_level": 839.12,
+        "humidity": 44,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 500,
+          "main": "Rain",
+          "description": "легкий дождь",
+          "icon": "10d"
+        }
+      ],
+      "clouds": {
+        "all": 20
+      },
+      "wind": {
+        "speed": 1.75,
+        "deg": 263.003
+      },
+      "rain": {
+        "3h": 0.39
+      },
+      "sys": {
+        "pod": "d"
+      },
+      "dt_txt": "2017-06-23 06:00:00"
+    },
+    {
+      "dt": 1498208400,
+      "main": {
+        "temp": 26.71,
+        "temp_min": 26.71,
+        "temp_max": 26.71,
+        "pressure": 838.16,
+        "sea_level": 1016.57,
+        "grnd_level": 838.16,
+        "humidity": 30,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "ясно",
+          "icon": "01d"
+        }
+      ],
+      "clouds": {
+        "all": 0
+      },
+      "wind": {
+        "speed": 2.11,
+        "deg": 273.503
+      },
+      "rain": {},
+      "sys": {
+        "pod": "d"
+      },
+      "dt_txt": "2017-06-23 09:00:00"
+    },
+    {
+      "dt": 1498219200,
+      "main": {
+        "temp": 25.37,
+        "temp_min": 25.37,
+        "temp_max": 25.37,
+        "pressure": 838.39,
+        "sea_level": 1016.85,
+        "grnd_level": 838.39,
+        "humidity": 28,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "пасмурно",
+          "icon": "04d"
+        }
+      ],
+      "clouds": {
+        "all": 88
+      },
+      "wind": {
+        "speed": 2.17,
+        "deg": 287.009
+      },
+      "rain": {},
+      "sys": {
+        "pod": "d"
+      },
+      "dt_txt": "2017-06-23 12:00:00"
+    },
+    {
+      "dt": 1498230000,
+      "main": {
+        "temp": 21.56,
+        "temp_min": 21.56,
+        "temp_max": 21.56,
+        "pressure": 839.01,
+        "sea_level": 1018.79,
+        "grnd_level": 839.01,
+        "humidity": 32,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "пасмурно",
+          "icon": "04n"
+        }
+      ],
+      "clouds": {
+        "all": 92
+      },
+      "wind": {
+        "speed": 1.91,
+        "deg": 284.502
+      },
+      "rain": {},
+      "sys": {
+        "pod": "n"
+      },
+      "dt_txt": "2017-06-23 15:00:00"
+    },
+    {
+      "dt": 1498240800,
+      "main": {
+        "temp": 18.57,
+        "temp_min": 18.57,
+        "temp_max": 18.57,
+        "pressure": 840.46,
+        "sea_level": 1021.35,
+        "grnd_level": 840.46,
+        "humidity": 44,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 500,
+          "main": "Rain",
+          "description": "легкий дождь",
+          "icon": "10n"
+        }
+      ],
+      "clouds": {
+        "all": 88
+      },
+      "wind": {
+        "speed": 0.82,
+        "deg": 249.503
+      },
+      "rain": {
+        "3h": 0.029999999999998
+      },
+      "sys": {
+        "pod": "n"
+      },
+      "dt_txt": "2017-06-23 18:00:00"
+    },
+    {
+      "dt": 1498251600,
+      "main": {
+        "temp": 13.8,
+        "temp_min": 13.8,
+        "temp_max": 13.8,
+        "pressure": 841.47,
+        "sea_level": 1024.03,
+        "grnd_level": 841.47,
+        "humidity": 85,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 500,
+          "main": "Rain",
+          "description": "легкий дождь",
+          "icon": "10n"
+        }
+      ],
+      "clouds": {
+        "all": 92
+      },
+      "wind": {
+        "speed": 1.17,
+        "deg": 308.5
+      },
+      "rain": {
+        "3h": 1.8
+      },
+      "sys": {
+        "pod": "n"
+      },
+      "dt_txt": "2017-06-23 21:00:00"
+    },
+    {
+      "dt": 1498262400,
+      "main": {
+        "temp": 12.78,
+        "temp_min": 12.78,
+        "temp_max": 12.78,
+        "pressure": 841.48,
+        "sea_level": 1024.62,
+        "grnd_level": 841.48,
+        "humidity": 90,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 501,
+          "main": "Rain",
+          "description": "дождь",
+          "icon": "10d"
+        }
+      ],
+      "clouds": {
+        "all": 92
+      },
+      "wind": {
+        "speed": 1.26,
+        "deg": 102.002
+      },
+      "rain": {
+        "3h": 4.05
+      },
+      "sys": {
+        "pod": "d"
+      },
+      "dt_txt": "2017-06-24 00:00:00"
+    },
+    {
+      "dt": 1498273200,
+      "main": {
+        "temp": 13.86,
+        "temp_min": 13.86,
+        "temp_max": 13.86,
+        "pressure": 841.77,
+        "sea_level": 1023.97,
+        "grnd_level": 841.77,
+        "humidity": 88,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 500,
+          "main": "Rain",
+          "description": "легкий дождь",
+          "icon": "10d"
+        }
+      ],
+      "clouds": {
+        "all": 92
+      },
+      "wind": {
+        "speed": 1.07,
+        "deg": 154.501
+      },
+      "rain": {
+        "3h": 1.83
+      },
+      "sys": {
+        "pod": "d"
+      },
+      "dt_txt": "2017-06-24 03:00:00"
+    },
+    {
+      "dt": 1498284000,
+      "main": {
+        "temp": 14.12,
+        "temp_min": 14.12,
+        "temp_max": 14.12,
+        "pressure": 842.71,
+        "sea_level": 1024.38,
+        "grnd_level": 842.71,
+        "humidity": 91,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 501,
+          "main": "Rain",
+          "description": "дождь",
+          "icon": "10d"
+        }
+      ],
+      "clouds": {
+        "all": 92
+      },
+      "wind": {
+        "speed": 1.36,
+        "deg": 235.503
+      },
+      "rain": {
+        "3h": 4.68
+      },
+      "sys": {
+        "pod": "d"
+      },
+      "dt_txt": "2017-06-24 06:00:00"
+    },
+    {
+      "dt": 1498294800,
+      "main": {
+        "temp": 14.48,
+        "temp_min": 14.48,
+        "temp_max": 14.48,
+        "pressure": 842.47,
+        "sea_level": 1023.88,
+        "grnd_level": 842.47,
+        "humidity": 84,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 501,
+          "main": "Rain",
+          "description": "дождь",
+          "icon": "10d"
+        }
+      ],
+      "clouds": {
+        "all": 92
+      },
+      "wind": {
+        "speed": 2.01,
+        "deg": 195.503
+      },
+      "rain": {
+        "3h": 3.5
+      },
+      "sys": {
+        "pod": "d"
+      },
+      "dt_txt": "2017-06-24 09:00:00"
+    },
+    {
+      "dt": 1498305600,
+      "main": {
+        "temp": 16.27,
+        "temp_min": 16.27,
+        "temp_max": 16.27,
+        "pressure": 841.05,
+        "sea_level": 1022.3,
+        "grnd_level": 841.05,
+        "humidity": 75,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 500,
+          "main": "Rain",
+          "description": "легкий дождь",
+          "icon": "10d"
+        }
+      ],
+      "clouds": {
+        "all": 48
+      },
+      "wind": {
+        "speed": 0.61,
+        "deg": 55.0003
+      },
+      "rain": {
+        "3h": 0.53
+      },
+      "sys": {
+        "pod": "d"
+      },
+      "dt_txt": "2017-06-24 12:00:00"
+    },
+    {
+      "dt": 1498316400,
+      "main": {
+        "temp": 12.76,
+        "temp_min": 12.76,
+        "temp_max": 12.76,
+        "pressure": 841.49,
+        "sea_level": 1023.26,
+        "grnd_level": 841.49,
+        "humidity": 84,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 802,
+          "main": "Clouds",
+          "description": "слегка облачно",
+          "icon": "03n"
+        }
+      ],
+      "clouds": {
+        "all": 36
+      },
+      "wind": {
+        "speed": 1.06,
+        "deg": 50.5006
+      },
+      "rain": {},
+      "sys": {
+        "pod": "n"
+      },
+      "dt_txt": "2017-06-24 15:00:00"
+    },
+    {
+      "dt": 1498327200,
+      "main": {
+        "temp": 9.52,
+        "temp_min": 9.52,
+        "temp_max": 9.52,
+        "pressure": 841.57,
+        "sea_level": 1023.78,
+        "grnd_level": 841.57,
+        "humidity": 79,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "облачно",
+          "icon": "02n"
+        }
+      ],
+      "clouds": {
+        "all": 20
+      },
+      "wind": {
+        "speed": 1.13,
+        "deg": 144
+      },
+      "rain": {},
+      "sys": {
+        "pod": "n"
+      },
+      "dt_txt": "2017-06-24 18:00:00"
+    },
+    {
+      "dt": 1498338000,
+      "main": {
+        "temp": 8.79,
+        "temp_min": 8.79,
+        "temp_max": 8.79,
+        "pressure": 841.06,
+        "sea_level": 1023.52,
+        "grnd_level": 841.06,
+        "humidity": 79,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 802,
+          "main": "Clouds",
+          "description": "слегка облачно",
+          "icon": "03n"
+        }
+      ],
+      "clouds": {
+        "all": 44
+      },
+      "wind": {
+        "speed": 1.04,
+        "deg": 169.002
+      },
+      "rain": {},
+      "sys": {
+        "pod": "n"
+      },
+      "dt_txt": "2017-06-24 21:00:00"
+    }
+  ],
+  "city": {
+    "id": 1526384,
+    "name": "Almaty",
+    "coord": {
+      "lat": 43.25,
+      "lon": 76.95
+    },
+    "country": "KZ"
+  }
+}
